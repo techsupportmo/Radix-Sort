@@ -1,0 +1,15 @@
+quickSelection:  The value with rank 100000 is 322023089
+quickSelection time used is 0.003195
+qsort: The value with rank 100000 is 322023089
+qsort time used is 0.035022
+position 9 n 200000
+position 8 n 29173
+position 7 n 5318
+position 6 n 978
+position 5 n 154
+position 4 n 29
+position 3 n 6
+position 2 n 2
+position 1 n 1
+MSD 10 radix: The value with rank 100000 is 322023089
+radix selection time used is 0.009269

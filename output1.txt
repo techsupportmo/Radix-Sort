@@ -1,0 +1,11 @@
+quickSelection:  The value with rank 200 is 121410134
+quickSelection time used is 0.000036
+qsort: The value with rank 200 is 121410134
+qsort time used is 0.000141
+position 9 n 1000
+position 8 n 112
+position 7 n 20
+position 6 n 3
+position 5 n 1
+MSD 10 radix: The value with rank 200 is 121410134
+radix selection time used is 0.000065
